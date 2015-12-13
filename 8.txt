@@ -1,5 +1,0 @@
-dell
-hp
-sony
-asus
-to merge master
